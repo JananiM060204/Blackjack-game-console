@@ -18,6 +18,7 @@ Beginner-friendly and great for learning Python fundamentals
 🚀 How to Run
 
 1️⃣ Clone this repository
+
 git clone https://github.com/<your-username>/blackjack-game-console.git
 cd blackjack-game-console
 
